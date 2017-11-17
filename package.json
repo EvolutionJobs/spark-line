@@ -1,0 +1,14 @@
+{
+  "name": "spark-line",
+  "version": "1.0.0",
+  "description": "Web component to render SVG spark lines",
+  "main": "spark-line.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lit-html": "^0.7.1"
+  }
+}
